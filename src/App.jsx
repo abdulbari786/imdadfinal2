@@ -207,16 +207,10 @@ function HomePage() {
         <section className="hero">
           <div className="wrap hero-grid">
             <Reveal className="hero-copy">
-              <p className="eyebrow">A community held by care</p>
-              <h1>
-                A little of your kindness.
-                <br />
-                <em>A lifetime of possibility.</em>
-              </h1>
+              <p className="eyebrow">IMDAD-UL-FUQARAA TRUST</p>
+              <h1>Be the reason a child smiles.</h1>
               <p className="lead">
-                A safe home, everyday essentials and room to grow — Imdad-ul-Fuqaraa
-                Trust stands alongside children, women and families building a
-                more hopeful future.
+                Food, school and a safe home for families who need it most.
               </p>
               <div className="hero-actions">
                 <a className="button" href="/donate">
